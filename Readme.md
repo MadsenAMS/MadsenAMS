@@ -3,6 +3,23 @@
 <!---## 
 #### 
 
+Tópicos:
+Arquiteturas:
+- Solid
+- Clean Architeture
+- AspNet Core (MVC)
+- dot net
+- Rest + Restful
+- Git (Conventional Commits)
+- GitFlow (Branch Structure)
+- Teste Unitário e Integrado
+- Mensageria
+
+- Agile (Scrum e Kanban)
+- Docker
+- kubernetes
+- Razor
+- SQL Server
 
 ## Who am I
 - Foreigner to every country -- stranger to no land 🌏✨
