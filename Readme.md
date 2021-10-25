@@ -1,4 +1,10 @@
-### TESTE
+### Andre Madsen
+
+## De Mim
+- Graduado em psicologia pela UFMG;
+- Ex-Professor de Inglês (Uptime/CAAP);
+- Controlador de Tráfego Aéreo
+- Apaixonado por programação, com ganas de mudar de área e investir na carreira.
 
 <!---## 
 #### 
@@ -21,15 +27,9 @@ Arquiteturas:
 - Razor
 - SQL Server
 
-## Who am I
-- Foreigner to every country -- stranger to no land 🌏✨
-- Currently living in Brazil, I've had **diverse job experiences** (including abroad)
-- I **love technology**, and I'm moving from my former career to become a web developer
-- Concluding the **web developer course** at [**Trybe**](https://www.betrybe.com/) *(due jun2021)*
-- Looking for job opportunities as a **junior web developer**
 
 
-## Skills
+## 
 <table>
   <tr>
     <th>Languages</th>
