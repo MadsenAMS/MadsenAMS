@@ -12,7 +12,6 @@
 Tópicos:
 Arquiteturas:
 - Solid
-- Clean Architeture
 - AspNet Core (MVC)
 - dot net
 - Rest + Restful
@@ -21,7 +20,6 @@ Arquiteturas:
 - Teste Unitário e Integrado
 - Mensageria
 
-- Agile (Scrum e Kanban)
 - Docker
 - kubernetes
 - Razor
