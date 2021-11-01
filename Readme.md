@@ -1,10 +1,11 @@
 # Andre Madsen
  
 ## De Mim
-Apaixonado por programação, com ganas de mudar de área e investir na carreira.<br/> 
+Apaixonado por programação, migrando de carreira pra poder dedicar à área. 
+
 Ex-aluno de psicologia (UFMG), ex-professor de inglês, e se o céu não me cair sobre a cabeça em breve, ex-controlador de tráfego aéreo.
 
-Trabalhando com equipe na elaboração de dois jogos simples no unity (lançamentos previstos para Dez/2021 e Fev/2022). Notícias em breve!
+Trabalhando com uma equipezinha engrenada na elaboração de dois jogos simples no unity (lançamentos previstos para Dez/2021 e Fev/2022). Notícias em breve!
 
 <!---## 
 #### 
