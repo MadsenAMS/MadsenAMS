@@ -31,7 +31,7 @@ Arquiteturas:
 <table>
   <tr>
     <th>Sistema Operacional</th>
-    <th>Programação</th>
+    <th>Linguagens</th>
     <th>Ferramentas</th>
   </tr>
   <tbody>
