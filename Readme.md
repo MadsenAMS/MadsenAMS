@@ -63,5 +63,5 @@ Arquiteturas:
 </table>
 --->  
 ## Contact
-[<img alt="email" width="32px" src="./icons/gmail.png" />](mailto:cyrano@cyranowebdev.com) [<img alt="linkedIn" width="32px" src="./icons/linkedin.png" />](https://www.linkedin.com/in/danielmadsenmelo) 
+[<img alt="email" width="32px" src="./icons/gmail.png" />](mailto:andre-madsen@hotmail.com) [<img alt="linkedIn" width="32px" src="./icons/linkedin.png" />](https://www.linkedin.com/in/andr%C3%A9-madsen-da-silveira-134377205) 
 
