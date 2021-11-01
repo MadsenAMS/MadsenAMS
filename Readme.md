@@ -1,10 +1,10 @@
-### Andre Madsen
-
+# Andre Madsen
+ 
 ## De Mim
-- Graduado em psicologia pela UFMG;
-- Ex-Professor de Inglês (Uptime/CAAP);
-- Controlador de Tráfego Aéreo
-- Apaixonado por programação, com ganas de mudar de área e investir na carreira.
+Apaixonado por programação, com ganas de mudar de área e investir na carreira.<br/> 
+Ex-aluno de psicologia (UFMG), ex-professor de inglês, e se o céu não me cair sobre a cabeça em breve, ex-controlador de tráfego aéreo.
+
+Trabalhando com equipe na elaboração de dois jogos simples no unity (lançamentos previstos para Dez/2021 e Fev/2022). Notícias em breve!
 
 <!---## 
 #### 
@@ -25,43 +25,36 @@ Arquiteturas:
 - Razor
 - SQL Server
 
-
-
-## 
+--->  
+### Familiaridade na Programação
 <table>
   <tr>
-    <th>Languages</th>
-    <th>Libs, services, software</th>
-    <th>Tools</th>
+    <th>Sistema Operacional</th>
+    <th>Programação</th>
+    <th>Ferramentas</th>
   </tr>
   <tbody>
     <tr>
       <td>
-        <img align="left" alt="C#" width="32px" src="./icons/c-logo-256px.png" />
-        <img align="left" alt="HTML5" width="32px" src="./icons/html5.png" />
-        <img align="left" alt="CSS3" width="32px" src="./icons/css3.png" />
-        <img align="left" alt="JavaScript" width="32px" src="./icons/javascript.png" />
+        <img align="left" alt="Ubuntu" width="32px" src="./icon/ubuntuIcon.png" />
+        <img align="left" alt="Windows" width="32px" src="./icon/windowsIcon.png" />
+        <img align="left" alt="Batch (DOS)" width="32px" src="./icon/batchIcon.png" />
+        <img align="left" alt="Shell Script (Linux)" width="32px" src="./icon/bashIcon.png" />
       </td>
       <td>
-        <img align="left" alt=".Net (dotnet)" width="32px" src="./icons/NET_Core_Logo_256px.png" />
-        <img align="left" alt="nodejs" width="32px" src="./icons/nodejs.png" />
-        <img align="left" alt="React" width="32px" src="./icons/react.png" />
-        <img align="left" alt="Jest" width="32px" src="./icons/jest.png" />
-        <img align="left" alt="mongodb" width="32px" src="./icons/mongodb.png" />
-        <img align="left" alt="sql" width="32px" src="./icons/sql.png" />
+        <img align="left" alt="C#" width="32px" src="./icon/csharpIcon.png" />
+        <img align="left" alt="HTML5" width="32px" src="./icon/htmlIcon.png" />
+        <img align="left" alt="CSS3" width="32px" src="./icon/cssIcon.png" />
+        <img align="left" alt="JavaScript" width="32px" src="./icon/javascriptIcon.png" />
       </td>
       <td>
-        <img align="left" alt="Git" width="32px" src="./icons/git.png" />
-        <img align="left" alt="GitHub" width="32px" src="./icons/github_icon_256.png" />
-        <img align="left" alt="Azure DevOps" width="32px" src="./icons/azure-devops.png" />
-        <img align="left" alt="Visual Studio" width="32px" src="./icons/Visual_Studio_256px.png" />
-        <img align="left" alt="Visual Studio Code" width="32px" src="./icons/vscode.png" />
-        <img align="left" alt="Terminal" width="32px" src="./icons/terminal.png" />
+        <img align="left" alt="Visual Studio" width="32px" src="./icon/visualstudioIcon.png" />
+        <img align="left" alt="Unity" width="32px" src="./icon/unityIcon.png" />
       </td>
     </tr>
   </tbody>
 </table>
---->  
-## Contact
+
+## Contato
 [<img alt="email" width="32px" src="./icon/emailMeIcon.png" />](mailto:andre-madsen@hotmail.com)     [<img alt="linkedin" width="32px" src="./icon/linkedinIcon.png" />](https://www.linkedin.com/in/andr%C3%A9-madsen-da-silveira-134377205)     [<img alt="whatsapp" width="32px" src="./icon/whatsappIcon.png"/>](https://wa.me/5531995066554)
 
