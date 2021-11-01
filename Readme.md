@@ -63,5 +63,5 @@ Arquiteturas:
 </table>
 --->  
 ## Contact
-[<img alt="email" width="32px" src="./icon/emailIcon.png" />](mailto:andre-madsen@hotmail.com) [<img alt="linkedinIcon.png" width="32px" src="./icon/linkedin.png" />](https://www.linkedin.com/in/andr%C3%A9-madsen-da-silveira-134377205) 
+[<img alt="email" width="32px" src="./icon/emailIcon.png" />](mailto:andre-madsen@hotmail.com)      [<img alt="linkedinIcon.png" width="32px" src="./icon/linkedin.png" />](https://www.linkedin.com/in/andr%C3%A9-madsen-da-silveira-134377205) 
 
