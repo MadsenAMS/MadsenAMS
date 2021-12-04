@@ -10,7 +10,7 @@ I later messed a bit with html/css/js, and I still have a couple of my early JS 
 
 I unfortunately kept very little of the first serious project I worked on, a php/html/css/js/mysql project of a site that would mine test questions from a question bank to build quick simulated tests for high-school teachers upon selected subjects. The site was full with news-feed and e-mail engines before the team broke up and gave up on the project. 
 
-Since then I've worked with a couple of designers (<a href = "www.zencapybara.com">the ZenCapybara team</a>) in a small <a href="https://github.com/ZenCapybara/MidasCorpGameProject">game project</a> using Unity and C#. The project is still ongoing, and might be ready for beta testing early next year. 
+Since then I've worked with a couple of designers (<a href = "https://www.zencapybara.com">the ZenCapybara team</a>) in a small <a href="https://github.com/ZenCapybara/MidasBankClerk">game project</a> using Unity and C#. The project is still ongoing, and might be ready for beta testing early next year. 
 
 I've been dedicating most of my free time studying C# and NodeJS (a long with their xUnit and Jest unit testing) in hopes of landing a job as a programmer. 
 
