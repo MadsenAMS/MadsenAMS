@@ -33,7 +33,7 @@ Arquiteturas:
 - SQL Server
 
 --->  
-### Familiaridade na Programação
+### Skills in Programming
 <table>
   <tr>
     <th>Sistema Operacional</th>
