@@ -36,9 +36,9 @@ Arquiteturas:
 ### Skills in Programming
 <table>
   <tr>
-    <th>Sistema Operacional</th>
-    <th>Linguagens</th>
-    <th>Ferramentas</th>
+    <th>Operating System</th>
+    <th>Languages</th>
+    <th>Tools</th>
   </tr>
   <tbody>
     <tr>
