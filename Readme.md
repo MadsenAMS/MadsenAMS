@@ -53,7 +53,7 @@ Arquiteturas:
         <img align="left" alt="HTML5" width="32px" src="./icon/htmlIcon.png" />
         <img align="left" alt="CSS3" width="32px" src="./icon/cssIcon.png" />
         <img align="left" alt="JavaScript" width="32px" src="./icon/javascriptIcon.png" />
-        <img align="left" alt="JavaScript" width="32px" src="./icon/nodejsIcon.png" />
+        <img align="left" alt="JavaScript" width="32px" src="./icon/nodeJSIcon.png" />
       </td>
       <td>
         <img align="left" alt="Visual Studio" width="32px" src="./icon/visualstudioIcon.png" />
