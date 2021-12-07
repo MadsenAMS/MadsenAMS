@@ -58,6 +58,7 @@ Arquiteturas:
       <td>
         <img align="left" alt="Visual Studio" width="32px" src="./icon/visualstudioIcon.png" />
         <img align="left" alt="Unity" width="32px" src="./icon/unityIcon.png" />
+               <img align="left" alt="Git" width="32px" src="./icon/gitIcon.png" />
       </td>
     </tr>
   </tbody>
