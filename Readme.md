@@ -11,7 +11,7 @@ Meanwhile I've been studying like there's no tomorrow. An update on how that's g
 ### Study Plans for C# (Quite Proud of This One)
 
 - :x: SOLID principles applied to C#
-- :arrow_forward: MVC using Asp .Net Core and Entity FrameWork ← *(Study in Progress)*
+- :point_right: *(Study in Progress)* MVC using Asp .Net Core and Entity FrameWork 
 - :heavy_check_mark: Refactoring and Clean Code techniques in C# (thanks uncle Bob!!!)
 - :heavy_check_mark: Unit testing on C# using  xUnit
 - :heavy_check_mark: Programming in .Net with Visual Studio
@@ -23,13 +23,13 @@ Meanwhile I've been studying like there's no tomorrow. An update on how that's g
 - :x: NestJS
 - :x: Angular.io
 - :x: Rest Applications with NodeJS, Express and MySQL
-- :arrow_forward: Unit Testing With Jest and Typescript ← *(Study in Progress)*
+- :point_right: *(Study in Progress)* Unit Testing With Jest and Typescript
 - :heavy_check_mark: Typescript  
 - :heavy_check_mark: Programming with NodeJS for BackEnd  
 - :heavy_check_mark: Javascript and Javascript Object Orientation  
 
 ### Study Plans on Other Topics
-- :arrow_forward:PostgreSQL ← *(Study in Progress)*
+- :point_right: *(Study in Progress)* PostgreSQL
 - :heavy_check_mark: Agile Methods: Scrum and Kanban
 - :heavy_check_mark: Git: Creating and Feeding Repos, Changing Branches, etc
 
