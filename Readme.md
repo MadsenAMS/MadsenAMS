@@ -8,30 +8,30 @@ I've been working with a couple of designers (<a href = "https://www.zencapybara
 
 Meanwhile I've been studying like there's no tomorrow. An update on how that's going:
 
-### Study Plans for C#
+### Study Plans for C# (Quite Proud of This One)
 
-- [ ] SOLID principles applied to C#
-- [ ] MVC using Asp .Net Core and Entity FrameWork ← *(I am here, and quite proud of it)*
-- [x] Refactoring and Clean Code techniques in C# (thanks Bob)
-- [x] Unit testing on C# using  xUnit
-- [x] Programming in .Net with Visual Studio
-- [x] Unity Engine projects in C#
-- [x] C# and object orientation
+- :x: SOLID principles applied to C#
+- :arrow_forward: MVC using Asp .Net Core and Entity FrameWork ← *(Study in Progress)*
+- :heavy_check_mark: Refactoring and Clean Code techniques in C# (thanks uncle Bob!!!)
+- :heavy_check_mark: Unit testing on C# using  xUnit
+- :heavy_check_mark: Programming in .Net with Visual Studio
+- :heavy_check_mark: Unity Engine projects in C#
+- :heavy_check_mark: C# and object orientation
 
 
 ### Study Plans for Javascript/NodeJS
-- [ ] NestJS
-- [ ] Angular.io
-- [ ] Rest Applications with NodeJS, Express and MySQL
-- [ ] Unit Testing With Jest and Typescript ← *(I am here)*
-- [x] Typescript
-- [x] Programming with NodeJS for BackEnd
-- [x] Javascript and Javascript Object Orientation
+- :x: NestJS
+- :x: Angular.io
+- Rest Applications with NodeJS, Express and MySQL
+- :arrow_forward: Unit Testing With Jest and Typescript ← *(Study in Progress)*
+- :heavy_check_mark: Typescript  
+- :heavy_check_mark: Programming with NodeJS for BackEnd  
+- :heavy_check_mark: Javascript and Javascript Object Orientation  
 
 ### Study Plans on Other Topics
-- [ ] PostgreSQL ← *(I am here)*
-- [x] Agile Methods: Scrum and Kanban
-- [x] Git: Creating and Feeding Repos, Changing Branches, etc
+- :arrow_forward:PostgreSQL ← *(Study in Progress)*
+- :heavy_check_mark: Agile Methods: Scrum and Kanban
+- :heavy_check_mark: Git: Creating and Feeding Repos, Changing Branches, etc
 
 <!---## 
 #### 
