@@ -22,7 +22,7 @@ Meanwhile I've been studying like there's no tomorrow. An update on how that's g
 ### Study Plans for Javascript/NodeJS
 - :x: NestJS
 - :x: Angular.io
-- Rest Applications with NodeJS, Express and MySQL
+- :x: Rest Applications with NodeJS, Express and MySQL
 - :arrow_forward: Unit Testing With Jest and Typescript ← *(Study in Progress)*
 - :heavy_check_mark: Typescript  
 - :heavy_check_mark: Programming with NodeJS for BackEnd  
