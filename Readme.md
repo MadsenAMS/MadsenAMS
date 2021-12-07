@@ -37,7 +37,7 @@ Arquiteturas:
 <table>
   <tr>
     <th>Operating System</th>
-    <th>Languages</th>
+    <th>Languages | Software | Libraries</th>
     <th>Tools</th>
   </tr>
   <tbody>
