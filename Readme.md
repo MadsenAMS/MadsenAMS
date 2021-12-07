@@ -83,6 +83,6 @@ Arquiteturas:
   </tbody>
 </table>
 
-## Contato
+## Contact Me
 [<img alt="email" width="32px" src="./icon/emailMeIcon.png" />](mailto:andre-madsen@hotmail.com)     [<img alt="linkedin" width="32px" src="./icon/linkedinIcon.png" />](https://www.linkedin.com/in/andr%C3%A9-madsen-da-silveira-134377205)     [<img alt="whatsapp" width="32px" src="./icon/whatsappIcon.png"/>](https://wa.me/5531995066554)
 
