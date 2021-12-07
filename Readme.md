@@ -53,12 +53,12 @@ Arquiteturas:
         <img align="left" alt="HTML5" width="32px" src="./icon/htmlIcon.png" />
         <img align="left" alt="CSS3" width="32px" src="./icon/cssIcon.png" />
         <img align="left" alt="JavaScript" width="32px" src="./icon/javascriptIcon.png" />
-        <img align="left" alt="JavaScript" width="32px" src="./icon/nodejaysIcon.png" />
+        <img align="left" alt="JavaScript" width="32px" src="./icon/nodejsIcon.png" />
       </td>
       <td>
         <img align="left" alt="Visual Studio" width="32px" src="./icon/visualstudioIcon.png" />
         <img align="left" alt="Unity" width="32px" src="./icon/unityIcon.png" />
-               <img align="left" alt="Git" width="32px" src="./icon/gitIcon.png" />
+        <img align="left" alt="Git" width="32px" src="./icon/gitIcon.png" />
       </td>
     </tr>
   </tbody>
