@@ -2,16 +2,14 @@
  
 ## About Me
 
-I've been fiddling with programming for a long time now as a hobby, and I've recently decided to jump head-first into programming.
+I've been fiddling with programming for a long time now as a hobby, and I've recently decided to jump head-first into coding.
 
-I've been working with a couple of designers (<a href = "https://www.zencapybara.com">the ZenCapybara team</a>) in a small <a href="https://github.com/ZenCapybara/MidasBankClerk">game project</a> using Unity and C#. The project is still ongoing, and might be ready for beta testing early next year. 
+I've been working with a couple of designers (<a href = "https://www.zencapybara.com">the ZenCapybara team</a>) in a small <a href="https://github.com/ZenCapybara/MidasBankClerk">game project</a> using Unity and C#. The project is still ongoing, and might be ready for beta testing early this year. 
 
 Meanwhile I've been studying like there's no tomorrow. An update on how that's going:
 
-### Study Plans for C# (Quite Proud of This One)
+### Progress in C# 
 
-- :x: SOLID principles applied to C#
-- :point_right: *(Study in Progress)* MVC using Asp .Net Core and Entity FrameWork 
 - :heavy_check_mark: Refactoring and Clean Code techniques in C# (thanks uncle Bob!!!)
 - :heavy_check_mark: Unit testing on C# using  xUnit
 - :heavy_check_mark: Programming in .Net with Visual Studio
@@ -19,16 +17,13 @@ Meanwhile I've been studying like there's no tomorrow. An update on how that's g
 - :heavy_check_mark: C# and object orientation
 
 
-### Study Plans for Javascript/NodeJS
-- :x: NestJS
-- :x: Angular.io
-- :x: Rest Applications with NodeJS, Express and MySQL
-- :point_right: *(Study in Progress)* Unit Testing With Jest and Typescript
+### Progress in Javascript/NodeJS
+- :heavy_check_mark: Typescript  Unity Testing with Mocha
 - :heavy_check_mark: Typescript  
 - :heavy_check_mark: Programming with NodeJS for BackEnd  
 - :heavy_check_mark: Javascript and Javascript Object Orientation  
 
-### Study Plans on Other Topics
+### Progress on Other Topics
 - :point_right: *(Study in Progress)* PostgreSQL
 - :heavy_check_mark: Agile Methods: Scrum and Kanban
 - :heavy_check_mark: Git: Creating and Feeding Repos, Changing Branches, etc
@@ -41,9 +36,7 @@ Arquiteturas:
 - Solid
 - AspNet Core (MVC)
 - Rest + Restful
-- Git (Conventional Commits)
 - GitFlow (Branch Structure)
-- Teste Unitário e Integrado
 - Mensageria
 
 - Docker
