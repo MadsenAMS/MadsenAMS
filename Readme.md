@@ -14,19 +14,23 @@ Meanwhile I've been studying like there's no tomorrow. An update on how that's g
 - :heavy_check_mark: Unit testing on C# using  xUnit
 - :heavy_check_mark: Programming in .Net with Visual Studio
 - :heavy_check_mark: Unity Engine projects in C#
-- :heavy_check_mark: C# and object orientation
-
+- :heavy_check_mark: Basic C# and object orientation
 
 ### Progress in Javascript/NodeJS
-- :heavy_check_mark: Typescript  Unity Testing with Mocha
+- :heavy_check_mark: Using ReactJS to Build Dynamic Components
+- :heavy_check_mark: Unit Testing with Mocha
 - :heavy_check_mark: Typescript  
 - :heavy_check_mark: Programming with NodeJS for BackEnd  
-- :heavy_check_mark: Javascript and Javascript Object Orientation  
+- :heavy_check_mark: Javascript and Javascript Object Orientation
+
+### Progress in HTML/CSS
+- HTML5
+- CSS3
+- BootStrap
 
 ### Progress on Other Topics
-- :point_right: *(Study in Progress)* PostgreSQL
 - :heavy_check_mark: Agile Methods: Scrum and Kanban
-- :heavy_check_mark: Git: Creating and Feeding Repos, Changing Branches, etc
+- :heavy_check_mark: Git: Creating , Pulling and Pushing Projects on GitHub
 
 <!---## 
 #### 
